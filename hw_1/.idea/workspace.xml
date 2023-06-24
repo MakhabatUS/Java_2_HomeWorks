@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86fb2ead-44e9-4af1-8337-effa0cc76d0a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ReSR7EqNtXpPVpLyp2v04DoC6b" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/admin/Documents/Mahych/ Programming/Geek Tech/ NEW_/Java_2_HomeWorks/hw_1/src/hw_8_hashmap",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hw_8_hashmap" />
+      <recent name="$PROJECT_DIR$/src/hw_7" />
+      <recent name="$PROJECT_DIR$/src/hw_6" />
+      <recent name="$PROJECT_DIR$/src/hw_5_semaphor_countdown/bus_station" />
+      <recent name="$PROJECT_DIR$/src/hw_5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Dictionary">
+    <configuration name="BusStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_5_semaphor_countdown.tickets.BusStation" />
+      <module name="hw_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_5_semaphor_countdown.tickets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_8_hashmap.Dictionary" />
+      <module name="hw_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_8_hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_6_generics.Main" />
+      <module name="hw_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_6_generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_5_semaphor_countdown.downloader.Server" />
+      <module name="hw_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_5_semaphor_countdown.downloader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw_7_iterator_arraylist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_7_iterator_arraylist.Main" />
+      <module name="hw_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_7_iterator_arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dictionary" />
+        <item itemvalue="Application.hw_7_iterator_arraylist.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.BusStation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86fb2ead-44e9-4af1-8337-effa0cc76d0a" name="Changes" comment="" />
+      <created>1687609042341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687609042341</updated>
+      <workItem from="1687609044733" duration="11346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
